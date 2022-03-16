@@ -62,8 +62,4 @@ wifi.interface=wlan0
 # Disable vsync for cpu rendered apps
 debug.cpurend.vsync=false
 
-# Sparks OS 
-ro.spark.device.name=POCO X3 NFC
-ro.spark.group.url=https://t.me/Inuo02
-ro.spark.maintainer=Aminuddin Ihsan
-ro.spark.maintainer.username=Inuo20
+
