@@ -1,0 +1,9 @@
+  },
+  {
+    "remote":"github",
+    "repository":"silont-project/kernel_xiaomi_surya",
+    "target_path":"kernel/xiaomi/surya",
+    "branch":"marin"
+  },
+  {
+    "remote":"github",
